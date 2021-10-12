@@ -674,7 +674,7 @@ visibility: visible;
  }
 
  .about-img img{
-    border-radius: 50%;
+    border-radius: 10px;
     border: 0.5px solid white;
     background: #e0d2c9;
     margin-bottom: 20px;
